@@ -1,0 +1,48 @@
+{
+    "data": {
+        "code": "ER_WARN_DATA_OUT_OF_RANGE",
+        "errno": 1264,
+        "sqlMessage": "Out of range value for column 'phone' at row 1",
+        "sqlState": "22003",
+        "index": 0,
+        "sql": "INSERT INTO pet_adaption.user (name, email, password,phone) VALUES ('muthu rama lingam', 'brammash400@gmail.com', '24323132','06383274335')"
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "content-length": "288",
+        "content-type": "application/json; charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json"
+        },
+        "method": "post",
+        "url": "http://localhost:8081/register",
+        "data": "{\"name\":\"muthu rama lingam\",\"email\":\"brammash400@gmail.com\",\"password\":\"24323132\",\"phone\":\"06383274335\"}"
+    },
+    "request": {}
+}

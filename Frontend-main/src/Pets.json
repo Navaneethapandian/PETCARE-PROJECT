@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "name": "Max",
+      "type": "dog",
+      "breed": "Golden Retriever",
+      "gender": "male",
+      "age": "adult",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "type": "cat",
+      "breed": "Siamese",
+      "gender": "female",
+      "age": "adult",
+      "image": "https://picsum.photos/200/301"
+    },
+    {
+      "id": 3,
+      "name": "Buddy",
+      "type": "dog",
+      "breed": "Labrador",
+      "gender": "male",
+      "age": "puppy",
+      "image": "https://picsum.photos/200/302"
+    },
+    {
+      "id": 4,
+      "name": "Whiskers",
+      "type": "cat",
+      "breed": "Persian",
+      "gender": "female",
+      "age": "senior",
+      "image": "https://picsum.photos/200/303"
+    },
+    {
+      "id": 5,
+      "name": "Rocky",
+      "type": "dog",
+      "breed": "Dachshund",
+      "gender": "male",
+      "age": "adult",
+      "image": "https://picsum.photos/200/304"
+    },
+    {
+      "id": 6,
+      "name": "Mittens",
+      "type": "cat",
+      "breed": "Siamese",
+      "gender": "male",
+      "age": "puppy",
+      "image": "https://picsum.photos/200/305"
+    },
+    {
+        "id": 7,
+        "name": "Daisy",
+        "type": "dog",
+        "breed": "Poodle",
+        "gender": "female",
+        "age": "adult",
+        "image": "https://picsum.photos/200/306"
+      },
+      {
+        "id": 8,
+        "name": "Simba",
+        "type": "cat",
+        "breed": "Bengal",
+        "gender": "male",
+        "age": "adult",
+        "image": "https://picsum.photos/200/307"
+      },
+      {
+        "id": 9,
+        "name": "Ginger",
+        "type": "dog",
+        "breed": "Corgi",
+        "gender": "female",
+        "age": "puppy",
+        "image": "https://picsum.photos/200/308"
+      },
+      {
+        "id": 10,
+        "name": "Smokey",
+        "type": "cat",
+        "breed": "Ragdoll",
+        "gender": "male",
+        "age": "senior",
+        "image": "https://picsum.photos/200/309"
+      },
+      {
+        "id": 11,
+        "name": "Bella",
+        "type": "dog",
+        "breed": "German Shepherd",
+        "gender": "female",
+        "age": "adult",
+        "image": "https://picsum.photos/200/310"
+      },
+      {
+        "id": 12,
+        "name": "Oliver",
+        "type": "cat",
+        "breed": "British Shorthair",
+        "gender": "male",
+        "age": "adult",
+        "image": "https://picsum.photos/200/311"
+      },
+      {
+        "id": 13,
+        "name": "Charlie",
+        "type": "dog",
+        "breed": "Beagle",
+        "gender": "male",
+        "age": "puppy",
+        "image": "https://picsum.photos/200/312"
+      },
+      {
+        "id": 14,
+        "name": "Lucy",
+        "type": "cat",
+        "breed": "Sphynx",
+        "gender": "female",
+        "age": "adult",
+        "image": "https://picsum.photos/200/313"
+      },
+      {
+        "id": 15,
+        "name": "Cooper",
+        "type": "dog",
+        "breed": "Labradoodle",
+        "gender": "male",
+        "age": "adult",
+        "image": "https://picsum.photos/200/314"
+      }
+  ]
